@@ -19,11 +19,10 @@ Project Repo - https://github.com/AnushkaSingh1/Portfolio.git
 Technical Stacks used - HTML, CSS, Javascript
 
 
-Site Map - 
-                      Home
-1. About        2. Skills        3. Services       4. Contact
--About me       -My skills       -Jobs             -Contact options
--CV
+Site Map - [sitemap.txt](https://github.com/AnushkaSingh1/Portfolio/files/8102191/sitemap.txt)
+
+          
+
 
 
 Conclusion - 
