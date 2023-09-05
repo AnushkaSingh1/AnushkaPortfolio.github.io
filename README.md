@@ -30,4 +30,4 @@ Great learning process with our own time management like without much pressure. 
 
 
 Future Scope -
-This project is like evergreen. It will always help me to showcase my work or prgress to this world as now this is my own portfolio! 
+This project is like evergreen. It will always help me to showcase my work or prgress to this world as now this is my own portfolio! !
